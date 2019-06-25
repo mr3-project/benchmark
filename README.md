@@ -1,5 +1,4 @@
-/sample-queries-tpcds-hive3
-/presto
+/sample-queries-tpcds-hive3 and /presto
 
   TPC-DS queries used for benchmarking Hive on MR3, Impala (under /sample-queries-tpcds-hive3), and Presto (under /presto).
 
