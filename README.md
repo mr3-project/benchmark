@@ -9,5 +9,13 @@
 
 /sample-queries-tpcds-hive4
 
-  Modified TPC-DS queries used for crosschecking Hive on MR3, Impala, and Presto for correctness
+  Modified TPC-DS queries for Hive on MR3 and Impala 
+
+  Used for crosschecking Hive on MR3, Impala, and Presto for correctness
+
+/sample-queries-tpcds-hive4
+
+  Modified TPC-DS queries for Presto 
+
+  Used for crosschecking Hive on MR3, Impala, and Presto for correctness
 
